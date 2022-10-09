@@ -1,0 +1,27 @@
+*{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 30px;
+}
+
+
+div{
+    height: 120px;
+    width: 120px;
+    display: block;
+}
+
+.caja1{
+    background-color:coral;
+}
+
+.caja2{
+    background-color: lightskyblue;
+}
+
+.caja3{
+    background-color: lightgreen;
+}
+
+.caja4{
+    background-color: rgb(218, 218, 69);
+}
